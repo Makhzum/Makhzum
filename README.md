@@ -1,6 +1,6 @@
 ### Hi there, I'm Tajwar 👋
 
-[![Website](https://img.shields.io/website?label=tajwarrahman.com&style=for-the-badge&url=https%3A%2F%2Ftajwarrahman.com)](https://www.sites.google.com/view/makhzumbinharun)
+[![Website](https://img.shields.io/website?label=sites.google.com/view/makhzumbinharun&style=for-the-badge&url=https%3A%2F%2Fsites.google.com/view/makhzumbinharun)](https://www.sites.google.com/view/makhzumbinharun)
 
 ## I'm a Student at Monipur High School & College!
 
@@ -11,7 +11,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="tajwarrahman.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="sites.google.com/view/makhzumbinharun" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
