@@ -1,5 +1,6 @@
+### Hi there, I'm Makhzum 👋
 # 💫 About Me:
-I am currently involved in my academics.<br>I’m looking to learn from other programmers.<br>I am seeking assistance with social issues.<br>I’m currently learning web development and some other courses.<br> Fun fact I love to watch tech-related videos
+🔭I am currently involved in my academics.<br>👯I’m looking to learn from other programmers.<br>🤝I am seeking assistance with social issues.<br>🌱I’m currently learning web development and some other courses.<br>⚡Fun fact I love to watch tech-related videos
 
 
 ## 🌐 Socials:
